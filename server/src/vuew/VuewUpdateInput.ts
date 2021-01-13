@@ -1,0 +1,2 @@
+class VuewUpdateInput {}
+export { VuewUpdateInput };
