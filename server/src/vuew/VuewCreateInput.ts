@@ -1,0 +1,2 @@
+class VuewCreateInput {}
+export { VuewCreateInput };
